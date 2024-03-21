@@ -23,3 +23,8 @@
     width: 20px;
   }
 }
+.arrow-btn{
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+}
